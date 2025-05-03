@@ -1,11 +1,23 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" border="50" scale="3" compressed="false" locked="false" version="26.1.1">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" border="50" scale="3" compressed="false" locked="false" version="26.2.14">
   <diagram name="Blank" id="YmL12bMKpDGza6XwsDPr">
-    <mxGraphModel dx="4656" dy="-452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="1" shadow="1">
+    <mxGraphModel dx="6295" dy="622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="1" shadow="1">
       <root>
         <mxCell id="X5NqExCQtvZxIxQ7pmgY-0" />
         <mxCell id="1" parent="X5NqExCQtvZxIxQ7pmgY-0" />
-        <mxCell id="VVmwNuJCckA3tUu8lGXH-1" value="Python" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-3980" y="930" width="120" height="80" as="geometry" />
+        <mxCell id="7P3EcL3WMBYnKuYzihJm-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="VVmwNuJCckA3tUu8lGXH-1" target="7P3EcL3WMBYnKuYzihJm-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7P3EcL3WMBYnKuYzihJm-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VVmwNuJCckA3tUu8lGXH-1" target="7P3EcL3WMBYnKuYzihJm-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VVmwNuJCckA3tUu8lGXH-1" value="Python" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-4130" y="900" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7P3EcL3WMBYnKuYzihJm-1" value="Why Python?&lt;br&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;ul&gt;&lt;li&gt;Python was released in 1990 with the idea of readability and ease of use.&lt;/li&gt;&lt;li&gt;Clear and Logical Code&lt;/li&gt;&lt;li&gt;Focus on optimizing developers time rather than computer processing time.&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-3840" y="740" width="470" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="7P3EcL3WMBYnKuYzihJm-2" value="What can we do with Python?&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Python is actually base Python only, which has limited applications, but its applications increase significantly if we use it with external libraries.&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Like when combined with external libraries, we can use Python in automation, DS and AI, Web Development, System Administration, etc.&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-3840" y="1010" width="460" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
